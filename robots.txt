@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://career-rebuild-navigator-vercel.vercel.app/sitemap.xml

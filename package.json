@@ -1,0 +1,16 @@
+{
+  "name": "career-rebuild-navigator-vercel",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Career Rebuild Navigator MVP with automated usability tests.",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright show-report",
+    "serve": "npx serve . -l 4173"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "serve": "^14.2.4"
+  }
+}
